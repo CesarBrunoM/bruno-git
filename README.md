@@ -20,7 +20,9 @@ Estou em constante aprendizado, buscando desafios que me permitam aplicar tecnol
 
 ## 📊 GitHub Status
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CesarBrunoM&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarBrunoM&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CesarBrunoM&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
